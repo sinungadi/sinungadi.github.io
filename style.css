@@ -2,9 +2,6 @@
 	margin-top: -10px;
 	margin-bottom: 1px;
 }
-.card {
-	align-content: center;
-}
 .row .card:hover{
 	box-shadow:  2px 2px 2px rgba(0,0,0,0.4);
 	transform: scale(1.02);
@@ -28,16 +25,20 @@
 
 .fa-circle:before {
   content: "\f111"; 
-  color: orange; }
+  color: #48D1CC;
+}
 
 .fa-whatsapp:before {
-  content: "\f232"; }
+  content: "\f232"; 
+}
 
 .fa-instagram:before {
-  content: "\f16d"; }
+  content: "\f16d"; 
+}
 
 .fa-github:before {
-  content: "\f09b"; }
+  content: "\f09b"; 
+}
 
 footer .copyright {
   font-size: 14px;
